@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cowsay Script By VaiS 
+echo "Script By VaiS" 
 
 df -Th >> output.txt
 
@@ -43,4 +43,4 @@ echo "</html>"
 
 rm output.txt
 
-cowsay -d Report file generated named Report.html
+echo "Report file generated named Report.html"
